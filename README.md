@@ -1,2 +1,2 @@
 ## FinTech
-> "Python program that automates the tasks associated with valuing microlending loans."
+> Python program that automates the tasks associated with valuing microlending loans.
